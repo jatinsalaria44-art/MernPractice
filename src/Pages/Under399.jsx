@@ -2,7 +2,7 @@ import React from 'react'
 
 const Under399 = () => {
   return (
-    <div>Under399</div>
+    <div>Error: Product not found</div>
   )
 }
 
